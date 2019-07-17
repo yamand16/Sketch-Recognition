@@ -1,1 +1,1 @@
-# real_time_sketch_recognition
+# Real Time Sketch Recognition System
