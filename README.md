@@ -8,4 +8,6 @@ Technologies:
 The pretrained AlexNet model can be downloaded here:
 - www.google.com.tr
 
-** References **
+**References**
+
+[1] A. Krizhevsky, I. Sutskever, G. E. Hinton, *ImageNet Classification with Deep Convolutional Neural Networks*, Advances in Neural Information Processing Systems, 2012.
