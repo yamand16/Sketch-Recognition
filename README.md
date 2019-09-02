@@ -1,6 +1,10 @@
 # Real Time Sketch Recognition System
 
-AlexNet
-TensorFlow
-Python
-Tkinter
+Technologies:
+- TensorFlow
+- Python
+- Tkinter
+
+The pretrained AlexNet model can be downloaded [here](www.google.com.tr)
+
+
