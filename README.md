@@ -5,6 +5,7 @@ Technologies:
 - Python
 - Tkinter
 
-The pretrained AlexNet model can be downloaded [here](www.google.com.tr)
+The pretrained AlexNet model can be downloaded here:
+- www.google.com.tr
 
-
+** References **
