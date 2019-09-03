@@ -4,7 +4,7 @@
 
 This repository is my project for Artificial Intelligence course. In this project, AlexNet deep CNN model [1] has been utilized to classify sketch objects. TU Berlin sketch dataset [2] has been used in order to train classifier model. 
 
-**Prerequisites:**
+## Prerequisites:
 - TensorFlow 1.7 or later
 - Python 3
 - Tkinter
@@ -14,16 +14,16 @@ My code is tested with Titan X GPUs.
 The pretrained AlexNet model can be downloaded here:
 - https://www.dropbox.com/s/4gxxv1mpu0sfrfw/sketch_model.zip?dl=0
 
-**Demo**
+## Demo
 ```
  python drawing_tool.py 
 ```
 
-**Acknowledgement**
+## Acknowledgement
 
 The AlexNet.py script is based on [this implementation.](https://github.com/kratzert/finetune_alexnet_with_tensorflow/tree/5d751d62eb4d7149f4e3fd465febf8f07d4cea9d)
 
-**References**
+## References
 
 [1] A. Krizhevsky, I. Sutskever, G. E. Hinton, *ImageNet Classification with Deep Convolutional Neural Networks*, Advances in Neural Information Processing Systems, 2012.
 
