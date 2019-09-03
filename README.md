@@ -9,7 +9,11 @@ This repository is my project for Artificial Intelligence course. In this projec
 ## Prerequisites:
 - TensorFlow 1.7 or later
 - Python 3
-- Tkinter
+- Tkinter 8.6.8
+- Pillow 5.4.1
+- OpenCV 3.1
+- Pynput 1.4.2
+- Numpy 1.14.2
 
 This code is tested with Titan X GPUs.
 
