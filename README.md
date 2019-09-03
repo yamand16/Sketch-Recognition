@@ -1,4 +1,4 @@
-# Real Time Sketch Recognition System
+# Real Time Sketch Recognition
 
 ## Summary
 
