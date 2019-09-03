@@ -1,6 +1,6 @@
 # Real Time Sketch Recognition System
 
-# Summary
+## Summary
 
 This repository is my project for Artificial Intelligence course. In this project, AlexNet deep CNN model [1] has been utilized to classify sketch objects. TU Berlin sketch dataset [2] has been used in order to train classifier model. 
 
