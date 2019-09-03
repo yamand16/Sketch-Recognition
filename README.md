@@ -15,7 +15,7 @@ The pretrained AlexNet model can be downloaded here:
 - https://www.dropbox.com/s/4gxxv1mpu0sfrfw/sketch_model.zip?dl=0
 
 **Demo**
-> python drawing_tool.py
+''' python drawing_tool.py '''
 
 **References**
 
