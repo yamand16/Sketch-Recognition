@@ -4,6 +4,8 @@
 
 This repository is my project for Artificial Intelligence course. In this project, AlexNet deep CNN model [1] has been utilized to classify sketch objects. TU Berlin sketch dataset [2] has been used in order to train classifier model. 
 
+**Note:** In the next version, the classification and user interface will work in different threads.
+
 ## Prerequisites:
 - TensorFlow 1.7 or later
 - Python 3
