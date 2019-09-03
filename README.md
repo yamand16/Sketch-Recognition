@@ -18,6 +18,11 @@ The pretrained AlexNet model can be downloaded here:
 ```
  python drawing_tool.py 
 ```
+
+**Acknowledgement**
+
+The AlexNet.py script is based on [this implementation.](https://github.com/kratzert/finetune_alexnet_with_tensorflow/tree/5d751d62eb4d7149f4e3fd465febf8f07d4cea9d)
+
 **References**
 
 [1] A. Krizhevsky, I. Sutskever, G. E. Hinton, *ImageNet Classification with Deep Convolutional Neural Networks*, Advances in Neural Information Processing Systems, 2012.
