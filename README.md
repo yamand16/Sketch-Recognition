@@ -22,6 +22,9 @@ This code is tested with Titan X GPUs.
 The pretrained AlexNet model can be downloaded here:
 - https://www.dropbox.com/s/4gxxv1mpu0sfrfw/sketch_model.zip?dl=0
 
+## Dataset
+- http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/
+
 ## Demo
 ```
  python drawing_tool.py 
