@@ -9,7 +9,7 @@ This repository is my project for Artificial Intelligence course. In this projec
 - Python 3
 - Tkinter
 
-My code is tested with Titan X GPUs.
+This code is tested with Titan X GPUs.
 
 The pretrained AlexNet model can be downloaded here:
 - https://www.dropbox.com/s/4gxxv1mpu0sfrfw/sketch_model.zip?dl=0
