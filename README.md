@@ -17,6 +17,8 @@ This repository is my project for Artificial Intelligence course. In this projec
 
 This code is tested with Titan X GPUs.
 
+## Pretrained model
+
 The pretrained AlexNet model can be downloaded here:
 - https://www.dropbox.com/s/4gxxv1mpu0sfrfw/sketch_model.zip?dl=0
 
