@@ -30,6 +30,21 @@ The pretrained AlexNet model can be downloaded here:
  python drawing_tool.py 
 ```
 
+## Cite
+
+For detail about sketch classification experiment, check [our paper.](https://ieeexplore.ieee.org/abstract/document/8404417)
+
+For citation:
+@inproceedings{eyiokur2018sketch,
+  title={Sketch classification with deep learning models},
+  author={Eyiokur, Fevziye {\.I}rem and Yaman, Do{\u{g}}ucan and Ekenel, Haz{\i}m Kemal},
+  booktitle={2018 26th Signal Processing and Communications Applications Conference (SIU)},
+  pages={1--4},
+  year={2018},
+  organization={IEEE}
+}
+
+
 ## Acknowledgement
 
 The AlexNet.py script is based on [this implementation.](https://github.com/kratzert/finetune_alexnet_with_tensorflow/tree/5d751d62eb4d7149f4e3fd465febf8f07d4cea9d)
