@@ -36,16 +36,14 @@ For detail about sketch classification experiment, check [our paper.](https://ie
 
 For citation:
 
-<cite>
-@inproceedings{eyiokur2018sketch,
-  title={Sketch classification with deep learning models},
-  author={Eyiokur, Fevziye {\.I}rem and Yaman, Do{\u{g}}ucan and Ekenel, Haz{\i}m Kemal},
-  booktitle={2018 26th Signal Processing and Communications Applications Conference (SIU)},
-  pages={1--4},
-  year={2018},
-  organization={IEEE}
-}
-<\cite>
+> @inproceedings{eyiokur2018sketch,
+>  title={Sketch classification with deep learning models},
+>  author={Eyiokur, Fevziye {\.I}rem and Yaman, Do{\u{g}}ucan and Ekenel, Haz{\i}m Kemal},
+>  booktitle={2018 26th Signal Processing and Communications Applications Conference (SIU)},
+>  pages={1--4},
+>  year={2018},
+>  organization={IEEE}
+> }
 
 
 ## Acknowledgement
