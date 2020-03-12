@@ -35,6 +35,8 @@ The pretrained AlexNet model can be downloaded here:
 For detail about sketch classification experiment, check [our paper.](https://ieeexplore.ieee.org/abstract/document/8404417)
 
 For citation:
+
+\bibliography
 @inproceedings{eyiokur2018sketch,
   title={Sketch classification with deep learning models},
   author={Eyiokur, Fevziye {\.I}rem and Yaman, Do{\u{g}}ucan and Ekenel, Haz{\i}m Kemal},
