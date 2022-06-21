@@ -32,7 +32,7 @@ The pretrained AlexNet model can be downloaded here:
 
 ## Cite
 
-For detail about sketch classification experiment, check [our paper.](https://ieeexplore.ieee.org/abstract/document/8404417)
+For details about sketch classification experiments, please check [our paper.](https://ieeexplore.ieee.org/abstract/document/8404417)
 
 For citation:
 
